@@ -1,5 +1,5 @@
 ## A. Judul Project atau Aplikasi
-      AdvancedWidget1
+      RecyclerView3
       
 ## B. Identitas Diri
   - Nama          : Arumia Fairuz Husna
